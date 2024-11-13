@@ -18,7 +18,7 @@ from selenium.webdriver.support import expected_conditions as EC
 from webdriver_manager.chrome import ChromeDriverManager
 from dotenv import load_dotenv
 import requests
- 
+
 # Instanciando o arquivo .env para que possa ser feito o preenchimento dos dados sem alteração no código fonte
 load_dotenv()
 
