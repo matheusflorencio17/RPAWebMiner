@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## RPA de Captura e Filtro de Produtos da Magazine Luiza
 
 Este RPA automatiza a busca, captura e filtragem de produtos no site da Magazine Luiza, usando **Python** e **Selenium**. Ele verifica a disponibilidade do site, busca um item específico, captura dados sobre os produtos, filtra os resultados e envia um relatório por e-mail.
@@ -69,3 +70,6 @@ Este RPA automatiza a busca, captura e filtragem de produtos no site da Magazine
 
 Caso encontre algum problema ou tenha sugestões, sinta-se à vontade para abrir uma **issue** ou contribuir para o código!
 
+=======
+# RPAWebMiner
+>>>>>>> b9a69e118a2ea918b8091c3b4c0a1c35f96b1482
